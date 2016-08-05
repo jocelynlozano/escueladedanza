@@ -1,0 +1,27 @@
+.principal{
+	text-align: center;
+	color: #5E6985;
+	font-size: 25px;
+	font-weight: bolder;
+	padding-top:40px; 
+	padding-bottom: 20px;
+}
+
+nav {
+	color: #8F92B1;
+	text-decoration: none;
+	text-align: center;
+
+}
+
+.fondo1 {
+	background-image: url(../img/dance_1.jpg);
+	width: 1349px;
+	height: 500px;
+	background-repeat: no-repeat;
+}
+.banner {
+	font-size: 60px;
+	color: #C3C6C5;
+	font-weight: bolder;
+}
